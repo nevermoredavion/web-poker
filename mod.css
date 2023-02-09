@@ -1,0 +1,273 @@
+body{
+    background-color: rgb(191, 245, 191);
+    margin: 0px;
+}
+.bodyTitle{
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(243, 181, 181), aqua);
+    padding: 10px;
+    border: 0px;
+    margin: 0px;
+}
+
+.float-child{
+    margin-top: 30px;
+    display: block;
+    margin-top: 30dp;
+    float: left; 
+    width: 73%;
+}
+  
+  .box {
+    float: left;
+    box-shadow: 2px 2px 10px 0px rgba(151, 149, 149, 0.75);
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+  .box1 {
+    margin: 5px;
+    height: 200px;
+    width: 150px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+    
+  }
+
+  .ranks1{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits1{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+  .box2 {
+    margin: 5px;
+    height: 200px;
+    width: 150px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+  }
+
+  .ranks2{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits2{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+  .box3 {
+    margin: 5px;
+    height: 200px;
+    width: 150px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+  }
+
+  .ranks3{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits3{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+  .box4 {
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+  }
+
+  .ranks4{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits4{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+  .box5 {
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+  }
+
+  .ranks5{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits5{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+  .b2 {
+    width: 57%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+  }
+
+  .boxx {
+    float: left;
+    width: 45%;
+    height: 100%;
+    box-shadow: 5px 5px 3px 0px rgba(151, 149, 149, 0.75);
+    background-color: white;
+    border-radius: 20px;
+  }
+
+  .box6 {
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+  }
+
+  .ranks6{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits6{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+  .box7 {
+    height: 200px;
+    width: 150px;
+    margin: 5px;
+    background-image: url("https://st2.depositphotos.com/4493721/10792/v/950/depositphotos_107929170-stock-illustration-poker-pattern-vector-seamless-casino.jpg");
+    background-size: auto;
+  }
+
+  .ranks7{
+    margin-left: 8px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .suits7{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100px, 100px ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+  .con3 {
+    margin-top: 300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+  }
+
+  .boxxx {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    width: 20%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 3px 0px rgba(151, 149, 149, 0.75);
+  }
+
+  .box8 { 
+    background-color: lightblue;
+    font-size: 25px;
+    color: blueviolet;
+    font-family: 'Segoe UI';
+    font-weight: 1000;
+  }
+  
+  .box9 {
+    background-color: lightcoral;
+    font-size: 25px;
+    color: blueviolet;
+    font-family: 'Segoe UI';
+    font-weight: 1000;
+  }
+  
+  .box10 {
+    background-color: lightgreen;
+    font-size: 25px;
+    color: blueviolet;
+    font-family: 'Segoe UI';
+    font-weight: 1000;
+  }
+
+  .box11 {
+    background-color: rgb(172, 173, 241);
+  }
+
+  .box12 {
+    background-color: rgb(239, 247, 168);
+  }
+
